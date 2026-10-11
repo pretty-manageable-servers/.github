@@ -1,8 +1,8 @@
 # PMServers
 
-**Your infrastructure. One control plane.**
+**The low-complexity cloud for AI and agents.**
 
-Virtual machines, containers, databases, and AI access organized around your projects. Manage them through the console, automate them with `pms`, or build directly against the API.
+PMServers is an easy-to-use cloud provider built around AI and agent workflows. Bring compute, databases, and AI access into one project, with a console for people and a CLI and API for automation.
 
 > [!WARNING]
 > **This entire project was built as a joke. Do not use it.**
@@ -11,7 +11,7 @@ Virtual machines, containers, databases, and AI access organized around your pro
 
 ## Platform
 
-PMServers brings virtual machines, containers, databases, and AI API access into a project-based management interface. The web console and `pms` CLI provide interfaces for managing resources, access, and credentials.
+Run virtual machines and containers, manage databases, and access AI APIs through a consistent project model. Use the web console for interactive work, `pms` for scripted workflows, and the API to integrate infrastructure into your agents and tools.
 
 ## Open source
 
