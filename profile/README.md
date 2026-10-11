@@ -1,6 +1,8 @@
 # PMServers
 
-Cloud infrastructure with a unified console, command line interface, and API.
+**Your infrastructure. One control plane.**
+
+Virtual machines, containers, databases, and AI access organized around your projects. Manage them through the console, automate them with `pms`, or build directly against the API.
 
 > [!WARNING]
 > **This entire project was built as a joke. Do not use it.**
